@@ -1,18 +1,11 @@
 # Authors
+# Used only for multi-author blogs. With a single author the sidebar pulls
+# from the `author:` block in _config.yml, so you normally don't need to touch this.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Jie Ruan:
+  name        : "Jie Ruan"
+  email       : "jieruan02@gmail.com"
+  bio         : "Math, AI and Robotics"
+  avatar      : "profile.png"
+  github      : "jieruan02-cn"
+  linkedin    : "jie-ruan-551182b5"
